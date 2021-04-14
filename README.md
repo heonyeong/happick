@@ -1,6 +1,16 @@
 ## Management System 
 초기 개발용입니다.
 
+1. npm 없을 때 nodejs 설치 : https://nodejs.org
+2. git clone https://github.com/heonyeong/happick.git
+3. cd happick
+4. npm install --global yarn
+5. yarn install
+6. yarn start
+
+* package 설치 문제로 정상 실행되지 않을 경우 각 패키지 재설치 진행
+ex) yarn add react-router-dom
+
 
 # Getting Started with Create React App
 
